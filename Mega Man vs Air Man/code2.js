@@ -45,7 +45,7 @@ gdjs.busterRemovalCode.condition1IsTrue_1 = {val:false};
 gdjs.busterRemovalCode.condition2IsTrue_1 = {val:false};
 
 
-gdjs.busterRemovalCode.eventsList0x993c40 = function(runtimeScene) {
+gdjs.busterRemovalCode.eventsList0x8e0030 = function(runtimeScene) {
 
 {
 
@@ -61,8 +61,8 @@ gdjs.busterRemovalCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timer
 }
 
 
-}; //End of gdjs.busterRemovalCode.eventsList0x993c40
-gdjs.busterRemovalCode.eventsList0x993a10 = function(runtimeScene) {
+}; //End of gdjs.busterRemovalCode.eventsList0x8e0030
+gdjs.busterRemovalCode.eventsList0x8dfe00 = function(runtimeScene) {
 
 {
 
@@ -81,14 +81,14 @@ gdjs.busterRemovalCode.GDtext3Objects1.createFrom(runtimeScene.getObjects("text3
 }
 }
 { //Subevents
-gdjs.busterRemovalCode.eventsList0x993c40(runtimeScene);} //End of subevents
+gdjs.busterRemovalCode.eventsList0x8e0030(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.busterRemovalCode.eventsList0x993a10
-gdjs.busterRemovalCode.eventsList0x9936a0 = function(runtimeScene) {
+}; //End of gdjs.busterRemovalCode.eventsList0x8dfe00
+gdjs.busterRemovalCode.eventsList0x8dfa90 = function(runtimeScene) {
 
 {
 
@@ -107,14 +107,14 @@ gdjs.busterRemovalCode.GDtext2Objects1.createFrom(runtimeScene.getObjects("text2
 }
 }
 { //Subevents
-gdjs.busterRemovalCode.eventsList0x993a10(runtimeScene);} //End of subevents
+gdjs.busterRemovalCode.eventsList0x8dfe00(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.busterRemovalCode.eventsList0x9936a0
-gdjs.busterRemovalCode.eventsList0x994900 = function(runtimeScene) {
+}; //End of gdjs.busterRemovalCode.eventsList0x8dfa90
+gdjs.busterRemovalCode.eventsList0x8e0cf0 = function(runtimeScene) {
 
 {
 
@@ -163,7 +163,7 @@ gdjs.busterRemovalCode.GDPlayerObjects1.createFrom(runtimeScene.getObjects("Play
 }
 
 
-}; //End of gdjs.busterRemovalCode.eventsList0x994900
+}; //End of gdjs.busterRemovalCode.eventsList0x8e0cf0
 gdjs.busterRemovalCode.eventsList0xb2358 = function(runtimeScene) {
 
 {
@@ -249,7 +249,7 @@ gdjs.busterRemovalCode.GDtextAreaObjects1.createFrom(runtimeScene.getObjects("te
 }{gdjs.evtTools.runtimeScene.unpauseTimer(runtimeScene, "oneToTwo");
 }
 { //Subevents
-gdjs.busterRemovalCode.eventsList0x9936a0(runtimeScene);} //End of subevents
+gdjs.busterRemovalCode.eventsList0x8dfa90(runtimeScene);} //End of subevents
 }
 
 }
@@ -378,7 +378,7 @@ for(var i = 0, k = 0, l = gdjs.busterRemovalCode.GDPlayerHitBoxObjects1.length;i
 gdjs.busterRemovalCode.GDPlayerHitBoxObjects1.length = k;}if (gdjs.busterRemovalCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.busterRemovalCode.eventsList0x994900(runtimeScene);} //End of subevents
+gdjs.busterRemovalCode.eventsList0x8e0cf0(runtimeScene);} //End of subevents
 }
 
 }

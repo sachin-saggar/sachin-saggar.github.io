@@ -29,7 +29,7 @@ gdjs.gameCreditsCode.condition0IsTrue_0 = {val:false};
 gdjs.gameCreditsCode.condition1IsTrue_0 = {val:false};
 
 
-gdjs.gameCreditsCode.eventsList0x9c0b50 = function(runtimeScene) {
+gdjs.gameCreditsCode.eventsList0x90d138 = function(runtimeScene) {
 
 {
 
@@ -44,7 +44,7 @@ gdjs.gameCreditsCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(r
 }
 
 
-}; //End of gdjs.gameCreditsCode.eventsList0x9c0b50
+}; //End of gdjs.gameCreditsCode.eventsList0x90d138
 gdjs.gameCreditsCode.eventsList0xb2358 = function(runtimeScene) {
 
 {
@@ -241,7 +241,7 @@ gdjs.gameCreditsCode.GDcredits6Objects1.createFrom(runtimeScene.getObjects("cred
 }
 }
 { //Subevents
-gdjs.gameCreditsCode.eventsList0x9c0b50(runtimeScene);} //End of subevents
+gdjs.gameCreditsCode.eventsList0x90d138(runtimeScene);} //End of subevents
 }
 
 }

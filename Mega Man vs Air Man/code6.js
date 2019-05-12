@@ -66,7 +66,7 @@ gdjs.bossBattleCode.condition1IsTrue_1 = {val:false};
 gdjs.bossBattleCode.condition2IsTrue_1 = {val:false};
 
 
-gdjs.bossBattleCode.eventsList0x9c45d8 = function(runtimeScene) {
+gdjs.bossBattleCode.eventsList0x910af8 = function(runtimeScene) {
 
 {
 
@@ -115,7 +115,7 @@ gdjs.bossBattleCode.GDPlayerObjects1.createFrom(runtimeScene.getObjects("Player"
 }
 
 
-}; //End of gdjs.bossBattleCode.eventsList0x9c45d8
+}; //End of gdjs.bossBattleCode.eventsList0x910af8
 gdjs.bossBattleCode.mapOfGDgdjs_46bossBattleCode_46GDbusterShotObjects1Objects = Hashtable.newFrom({"busterShot": gdjs.bossBattleCode.GDbusterShotObjects1});gdjs.bossBattleCode.mapOfGDgdjs_46bossBattleCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.bossBattleCode.GDPlayerObjects1});gdjs.bossBattleCode.mapOfGDgdjs_46bossBattleCode_46GDtornadoObjects1Objects = Hashtable.newFrom({"tornado": gdjs.bossBattleCode.GDtornadoObjects1});gdjs.bossBattleCode.eventsList0xb2358 = function(runtimeScene) {
 
 {
@@ -436,7 +436,7 @@ for(var i = 0, k = 0, l = gdjs.bossBattleCode.GDPlayerHitBoxObjects1.length;i<l;
 gdjs.bossBattleCode.GDPlayerHitBoxObjects1.length = k;}if (gdjs.bossBattleCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.bossBattleCode.eventsList0x9c45d8(runtimeScene);} //End of subevents
+gdjs.bossBattleCode.eventsList0x910af8(runtimeScene);} //End of subevents
 }
 
 }
